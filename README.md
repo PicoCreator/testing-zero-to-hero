@@ -739,7 +739,7 @@ BDD stands for Behavior-Driven Development, which is a style of writing tests in
 ##  💎 Execise 1.1: Hello Pikachu
 
 ```javascript
-const Pokemon = require("../models/Pokemon")
+const Pokemon = require("../../models/Pokemon")
 const assert = require("assert")
 
 describe("Pokemon", function() {
