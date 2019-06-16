@@ -230,7 +230,7 @@ In this exercise, let's try out Chai's `expect` syntax.
 Import Chai's `expect` library:
 
 ```javascript
-const expect = require("expect").expect
+const expect = require("chai").expect
 ```
 
 `expect` allows you to write assertions like this:
